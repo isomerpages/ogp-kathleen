@@ -1,0 +1,8 @@
+collections:
+  about:
+    output: true
+    order:
+      - intro/.keep
+      - intro/about-me.md
+      - intro/fun-facts.md
+      - my-hobbies.md
