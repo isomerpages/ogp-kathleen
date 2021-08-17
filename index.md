@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Boardgames!
       subtitle: A website for starting your boardgaming journey
-      background: /images/hero-banner.png
+      background: /images/Jahromi-Pandemictheboardgame.jpeg
       button: Contact Us
       url: /contact-us/
       key_highlights:
