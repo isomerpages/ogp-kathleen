@@ -17,8 +17,11 @@ sections:
           description: Explore the latest games now!
           url: https://en.boardgamearena.com/
         - title: Tabletopia
-          description: Important highlight B is equally important
-          url: New Games Released
+          description: New Games Released
+          url: https://tabletopia.com/
+        - title: Board Game Reviews
+          description: Find the latest board games
+          url: https://boardgamegeek.com/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
