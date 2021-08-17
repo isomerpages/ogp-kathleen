@@ -23,9 +23,9 @@ sections:
           description: Find the latest board games
           url: https://boardgamegeek.com/
   - infobar:
-      title: Infobar title
-      description: About a sentence worth of description here
-      button: Button text
+      title: Want to know more about board games?
+      description: Find out about the latest updates here
+      button: Find out more
       url: /faq/
   - resources:
       title: Media
