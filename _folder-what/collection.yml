@@ -1,5 +1,5 @@
 collections:
-  testing:
+  folder-what:
     output: true
     order:
       - privacy.md
