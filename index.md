@@ -27,11 +27,6 @@ sections:
       description: Here's what to expect
       button: Find out more
       url: https://www.redcross.sg/give-blood/i-m-ready-to-donate.html
-  - infobar:
-      title: Get Involved
-      description: There are lots of ways you can help the Singapore Red Cross
-      button: click here to get started
-      url: https://www.redcross.sg/get-involved.html
   - resources:
       title: Media
       subtitle: Learn more
