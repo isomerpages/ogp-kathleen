@@ -7,9 +7,7 @@ permalink: /
 notification: There will be a system downtime on 31 Dec 2021, 0000hrs to 0500hrs.
 sections:
   - hero:
-      title: Boardgames!
-      subtitle: A website for starting your boardgaming journey
-      background: /images/Jahromi-Pandemictheboardgame.jpeg
+      background: /images/masthead_blood_phone.jpeg
       button: Contact Us
       url: /contact-us/
       key_highlights:
