@@ -3,7 +3,7 @@ title: Terms of Use
 permalink: /permalink
 ---
 ### **TERMS OF USE**
-1.  Thank you for visiting the Singapore Healthcare Corps, Ministry of Health corporate website. Access to any page in [www.healthcarecorps.gov.sg](www.healthcarecorps.gov.sg) (henceforth known as "Web Site") is governed by the terms and conditions stipulated below (“Terms”). Your access and use of this Web Site constitute your acceptance and agreement to be bound by these terms and conditions of use (“Terms of Use”). If you do not consent to be bound by these Terms of Use, please discontinue your access and do not use this Web Site. 
+1.  Thank you for visiting the Singapore Healthcare Corps, Ministry of Health corporate website. Access to any page in [www.healthcarecorps.gov.sg](www.healthcarecorps.gov.sg)(henceforth known as "Web Site") is governed by the terms and conditions stipulated below (“Terms”). Your access and use of this Web Site constitute your acceptance and agreement to be bound by these terms and conditions of use (“Terms of Use”). If you do not consent to be bound by these Terms of Use, please discontinue your access and do not use this Web Site. 
 2.  This Web Site is maintained by and belongs to the Ministry of Health.
 3.  In case of any violation of these Terms of Use, we reserve the right to seek all remedies available under the law and in equity for such violations. These Terms of Use apply in respect of any and all visits to this Web Site, both now and in the future.
 4.  In these Terms, any reference to “SG Healthcare Corps”, “Ministry of Health”, “we”, “our” and “us” refers to the Government of Singapore.
