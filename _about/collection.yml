@@ -4,3 +4,4 @@ collections:
     order:
       - intro/.keep
       - my-hobbies.md
+      - calendar-of-events.md
