@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - intro/.keep
-      - intro/about-me.md
       - my-hobbies.md
