@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - intro/.keep
-      - my-hobbies.md
       - calendar-of-events.md
+      - my-hobbies.md
