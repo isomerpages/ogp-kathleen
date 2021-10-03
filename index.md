@@ -2,7 +2,7 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/MOHShareicon.png
 permalink: /
 notification: There will be a system downtime on 31 Dec 2021, 0000hrs to 0500hrs.
 sections:
