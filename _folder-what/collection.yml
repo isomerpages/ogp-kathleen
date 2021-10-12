@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - testing/.keep
+      - testing/test-page.md
       - example-page.md
       - privacy.md
       - terms-of-use.md
