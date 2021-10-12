@@ -2,6 +2,7 @@ collections:
   folder-what:
     output: true
     order:
+      - testing/.keep
       - example-page.md
       - test-page.md
       - privacy.md
