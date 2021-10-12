@@ -4,5 +4,6 @@ collections:
     order:
       - testing/.keep
       - testing/test-page.md
+      - testing/example-page.md
       - privacy.md
       - terms-of-use.md
