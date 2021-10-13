@@ -10,7 +10,7 @@ links:
     resource_room: true
   - title: Folder What
     collection: folder-what
-  - title: Google
+  - title: Login
     url: https://google.com
   - title: Menu Title
     url: /permalink
