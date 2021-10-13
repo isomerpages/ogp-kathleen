@@ -10,3 +10,18 @@ links:
     resource_room: true
   - title: Folder What
     collection: folder-what
+  - title: Google
+    url: https://google.com
+  - title: Menu Title
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+  - title: Menu Title
+    collection: about
+  - title: Menu Title
+    url: /permalink
+  - title: Menu Title
+    url: /permalink
+  - title: test
+    url: /permalink
