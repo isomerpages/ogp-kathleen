@@ -2,10 +2,10 @@ collections:
   folder-what:
     output: true
     order:
-      - testing/Example Title 3.md
       - testing/.keep
       - testing/test-page.md
       - testing/example-page.md
       - testing/Example Title 2.md
+      - testing/Example Title 3.md
       - privacy.md
       - terms-of-use.md
