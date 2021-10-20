@@ -4,14 +4,21 @@ links:
     url: /contact-us/
   - title: Faq
     url: /faq/
+  - title: Submenu
+    url: /submenu
+    sublinks:
+      - title: Submenu Title
+        url: /submenu1
+      - title: Submenu Title
+        url: /submenu2
+  - title: Login
+    url: https://google.com
   - title: About
     collection: about
   - title: Media Room
     resource_room: true
   - title: Folder What
     collection: folder-what
-  - title: Login
-    url: https://google.com
   - title: Menu Title
     url: /permalink
     sublinks:
