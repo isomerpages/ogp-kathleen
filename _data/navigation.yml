@@ -20,15 +20,6 @@ links:
   - title: Folder What
     collection: folder-what
   - title: Menu Title
-    url: /permalink
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
-  - title: Menu Title
     collection: about
-  - title: Menu Title
-    url: /permalink
-  - title: Menu Title
-    url: /permalink
   - title: test
-    url: /permalink
+    url: /folder-what/test-page1
