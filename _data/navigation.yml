@@ -8,7 +8,7 @@ links:
     url: /testingpage1
     sublinks:
       - title: Google
-        url: https://google.com
+        url: https://www.google.com
       - title: Submenu 2
         url: /testingpage2
   - title: Login
