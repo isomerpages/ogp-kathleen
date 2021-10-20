@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - testing/.keep
-      - testing/test-page.md
+      - testing/Test Page.md
       - testing/example-page.md
       - testing/Example Title 2.md
       - testing/Example Title 3.md
