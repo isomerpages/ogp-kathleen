@@ -5,7 +5,7 @@ links:
   - title: Faq
     url: /faq/
   - title: Submenu
-    url: /resources
+    url: /media-room
     sublinks:
       - title: Submenu 1
         url: /testingpage1
