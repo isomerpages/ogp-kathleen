@@ -29,7 +29,7 @@ permalink: /testingpage1
       <td>National Parks Board</td>
     </tr>	
     <tr>
-      <td>Telecommunication equipment <br> [Examples of prohibited telecommunication equipment](https://www.imda.gov.sg/ProhibitedEquipment)		<br>
+      <td>Telecommunication equipment <br> [Examples of prohibited telecommunication equipment](https://imda.gov.sg/ProhibitedEquipment)	<br>
       <br>
 1.   Scanning receivers		
 				<br>
