@@ -1,4 +1,5 @@
 collections:
   folder-whatttttttttttttttttttt:
     output: true
-    order: []
+    order:
+      - A very very very long nameeeee/.keep
