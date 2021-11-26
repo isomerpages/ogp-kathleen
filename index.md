@@ -2,7 +2,6 @@
 layout: homepage
 title: Isomer Site
 description: An Isomer site of the Singapore Government
-  kjxdkhxheldjlrjj;;lck;lk;k;lkl;kl;k;lk;lk;lk;lk;lk;lk;lk;lk;lk;lk;lk;lk
 image: /images/MOHShareicon.png
 permalink: /
 notification: There will be a system downtime on 31 Dec 2021, 0000hrs to 0500hrs.
@@ -33,4 +32,5 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
 
