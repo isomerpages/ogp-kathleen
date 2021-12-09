@@ -52,3 +52,5 @@ plugins:
   - jekyll-remote-theme
 staging: https://ogp-kathleen-staging.netlify.app
 prod: https://ogp-kathleen-prod.netlify.app
+shareicon: /images/test/MOHShareicon.png
+is_government: true
