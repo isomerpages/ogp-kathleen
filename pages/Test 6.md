@@ -241,11 +241,11 @@ For minor offences under the Customs Act and the RIEA, Singapore Customs may off
 		  </tbody>
 </table>
 
-Read more about the prescribed offences and penalties under the [Customs Act and the RIEA](https://www.customs.gov.sg/businesses/acts-and-subsidiary-legislation/overview).
+<p>Read more about the prescribed offences and penalties under the [Customs Act and the RIEA](https://www.customs.gov.sg/businesses/acts-and-subsidiary-legislation/overview).</p>
 			
 			
 <br>
-	</br>
+
     
 <header>
 	<h2>Best Practices</h2>
