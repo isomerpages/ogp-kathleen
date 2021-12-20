@@ -255,7 +255,7 @@ For minor offences under the Customs Act and the RIEA, Singapore Customs may off
 <header>
 	<h2>Best Practices</h2>
 
-You are accountable as an importer or declaring agent for the import of goods. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements.
+<p>You are accountable as an importer or declaring agent for the import of goods. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements.</p>
 
 <ul class="jekyllcodex_accordion">
 	<li>                                                                 
@@ -292,9 +292,10 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 <header>
 	<h2>For more information on:
 	</h2>
-{:.mobile-block}
-|  |  |  |  |
-|--|--|--|--|
+<div class="horizontal-scroll">
+	<table class="mobile-block">
+		<thead>
+			<tr>
 | [![](/images/importing-goods/IP1.jpg)](/businesses/importing-goods/import-procedures/hand-carried-temporary-imported-goods)  |  [![](/images/importing-goods/IP2.jpg)](/businesses/importing-goods/import-procedures/types-of-import-permits) | [![](/images/importing-goods/IP3.jpg)](/businesses/importing-goods/import-procedures/permit-validity-and-error-messages) |  [![](/images/importing-goods/IP4.jpg)](/businesses/importing-goods/import-procedures/permit-amendments-and-cancellation)|
 | [![](/images/importing-goods/IP5.jpg)](/businesses/importing-goods/import-procedures/claiming-preferential-tariff-treatment-for-dutiable-imports) | [![](/images/importing-goods/IP6.jpg)](/businesses/importing-goods/import-procedures/importing-trade-samples)  | [![](/images/importing-goods/IP7.jpg)](/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service) | [![](/images/importing-goods/IP8.jpg)](/businesses/importing-goods/import-procedures/importing-of-pets-for-commercial-purpose)|
 | [![](/images/importing-goods/IP9.jpg)](/businesses/importing-goods/import-procedures/importing-of-personal-pets)  | [![](/images/importing-goods/IP10.jpg)](/businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms) | [![](/images/importing-goods/IP11.jpg)](/businesses/importing-goods/import-procedures/importing-medical-products-and-therapeutic-products-for-clinical-trials) | [![](/images/importing-goods/IP12.jpg)](/businesses/importing-goods/import-procedures/importing-duty-exempted-motor-vehicles-and-gst-exempted-boats) |
