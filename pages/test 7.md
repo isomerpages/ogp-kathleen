@@ -75,7 +75,7 @@ Importers may be penalised if they do not comply with the requirements imposed u
 <b>Examples of Common Errors and Corrective Actions</b>
 <ul class="jekyllcodex_accordion">
 <li>
-    <input id="accordion1" type="checkbox">
+    <input type="checkbox" id="accordion1">
     <label for="accordion1">For errors made in an import permit, please take note of the following:</label>
 <div>
 	<ul>
@@ -90,7 +90,7 @@ Amendments and cancellation are generally not allowed for import permits which h
     </div>
 	</li>
 <li>
-	<input id="accordion2" type="checkbox">
+	<input type="checkbox" id="accordion2">
     <label for="accordion2">For errors made in a utilised Major Exporter permit, please take note of the following:</label>
 <div>
       <ul>
@@ -106,7 +106,7 @@ The declaring Agent (DA) needs to obtain a replacement In-Non-Payment "Approved 
     </div>
   </li>
 <li>
-	<input id="accordion3" type="checkbox">
+	<input type="checkbox" id="accordion3">
     <label for="accordion3">For errors made in a utilised In-Payment permit, please take note of the following:</label>
 <div>
 <ul>
@@ -130,7 +130,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 <b>Examples of Common Offences</b>
 <ul class="jekyllcodex_accordion2">
 <li>
-	<input id="accordion4" type="checkbox">
+	<input type="checkbox" id="accordion4">
     <label for="accordion4">Making an incorrect declaration on the value of goods imported into Singapore:</label>
 <div>
 	<ul><li>Omission of insurance charges in the value when declaring GST Payment permit to import goods</li>
@@ -138,7 +138,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
     </div>
 	</li>
 	<li>
-	<input id="accordion5" type="checkbox">
+	<input type="checkbox" id="accordion5">
     <label for="accordion5">Failure to make a declaration of goods imported into Singapore:</label>
 <div>
 	<ul>
@@ -148,7 +148,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 	</div>	
 	</li>
 <li>
-	<input id="accordion6" type="checkbox">
+	<input type="checkbox" id="accordion6">
     <label for="accordion6"> Failure to produce trade documents upon request by Singapore Customs:</label>
 <div>
 	<ul>
@@ -157,7 +157,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 	</div>
 	</li>
 	<li>
-		<input id="accordion7" type="checkbox">
+		<input type="checkbox" id="accordion7">
 	<label for="accordion7"> Failure to produce licence or customs permit for customs clearance/endorsement:</label>
 	<div>
 	<ul>
@@ -166,8 +166,8 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 		</div>
 	</li>
 			<li>
-		<input id="accordion8" type="checkbox">
-		</li><li><label for="accordion8">Unauthorised tampering/opening/breaking/altering or removing of customs lock, seal or other safeguards placed on containerised dutiable goods</label>
+		<input type="checkbox" id="accordion8">
+		<li><label for="accordion8">Unauthorised tampering/opening/breaking/altering or removing of customs lock, seal or other safeguards placed on containerised dutiable goods</label>
 			<div>
 				<ul>
 					<li>Unauthorised breakage of Customs red seal affixed on the container</li>
@@ -176,11 +176,13 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 	</li>
 		</ul>
 
-For minor offences under the Customs Act and the RIEA, Singapore Customs may offer to compound the offences for a sum not more than S$5,000 per offence. Offenders may be prosecuted if the offences committed are of a fraudulent or serious nature.
+<p>For minor offences under the Customs Act and the RIEA, Singapore Customs may offer to compound the offences for a sum not more than S$5,000 per offence. Offenders may be prosecuted if the offences committed are of a fraudulent or serious nature.</p>
 
 
 
-## Penalties Upon Conviction for Key Offences
+<hr>
+	<h2>Penalties Upon Conviction for Key Offences
+	</h2>
 
 <table>
   <thead>
@@ -253,7 +255,7 @@ Read more about the prescribed offences and penalties under the [Customs Act and
 
 <ul class="jekyllcodex_accordion">
 	<li>                                                                 
-			<input id="accordion1" type="checkbox">
+			<input type="checkbox" id="accordion1">
 			<label for="accordion1">Do</label>
 			<div>
 					<p>	✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes.</p>
@@ -269,7 +271,7 @@ Read more about the prescribed offences and penalties under the [Customs Act and
 				</div>
 				</li>
 				<li>
-				<input id="accordion2" type="checkbox">
+				<input type="checkbox" id="accordion2">
 				<label for="accordion2">Do Not</label>
 				<div>
 				<p>✖ Make a declaration without verifying the authenticity of all the supporting documents. </p>
@@ -281,7 +283,6 @@ Read more about the prescribed offences and penalties under the [Customs Act and
 		</div>
 	</li>
 	</ul>
-	
 	
 <header>
 	<h2>For more information on:
