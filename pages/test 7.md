@@ -5,7 +5,6 @@ date: 2021-12-20
 layout: post
 description: ""
 ---
-
 # Import Procedures
 
 All goods imported into Singapore are regulated under the Customs Act, the Goods and Services Tax (GST) Act and the Regulation of Imports and Exports Act.
@@ -299,49 +298,49 @@ Read more about the prescribed offences and penalties under the [Customs Act and
 		</thead>
 		<tbody>
 			<tr>
-				<td><a href="/businesses/importing-goods/import-procedures/hand-carried-temporary-imported-goods"><img alt="" src="/images/importing-goods/IP1.jpg"></a>
+				<td><a href="/businesses/importing-goods/import-procedures/hand-carried-temporary-imported-goods"><img alt="" src="/images/customs%201.jpeg"></a>
 				</td>
-				<td><a href="/businesses/importing-goods/import-procedures/types-of-import-permits"><img alt="" src="/images/importing-goods/IP2.jpg"></a>
+				<td><a href="/businesses/importing-goods/import-procedures/types-of-import-permits"><img alt="" src="/images/customs%201.jpeg"></a>
 				</td>
-				<td><a href="/businesses/importing-goods/import-procedures/permit-validity-and-error-messages"><img alt="" src="/images/importing-goods/IP3.jpg"></a>
+				<td><a href="/businesses/importing-goods/import-procedures/permit-validity-and-error-messages"><img alt="" src="/images/customs%201.jpeg"></a>
 					</td>
-				<td><a href="/businesses/importing-goods/import-procedures/permit-amendments-and-cancellation"><img alt="" src="/images/importing-goods/IP4.jpg"></a>
+				<td><a href="/businesses/importing-goods/import-procedures/permit-amendments-and-cancellation"><img alt="" src="/images/customs%201.jpeg"></a>
 				</td>
 			</tr>
 			<tr>
-				<td><a href="/businesses/importing-goods/import-procedures/claiming-preferential-tariff-treatment-for-dutiable-imports"><img alt="" src="/images/importing-goods/IP5.jpg">
+				<td><a href="/businesses/importing-goods/import-procedures/claiming-preferential-tariff-treatment-for-dutiable-imports"><img alt="" src="/images/customs%201.jpeg">
 					</a></td>
-				<td><a href="/businesses/importing-goods/import-procedures/importing-trade-samples"><img alt="" src="/images/importing-goods/IP6.jpg">
+				<td><a href="/businesses/importing-goods/import-procedures/importing-trade-samples"><img alt="" src="/images/customs%201.jpeg">
 					</a></td>
-					<td><a href="/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service"><img alt="" src="/images/importing-goods/IP7.jpg">
+					<td><a href="/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service"><img alt="" src="/images/customs%201.jpeg">
 						</a></td>
-						<td><a href="/businesses/importing-goods/import-procedures/importing-of-pets-for-commercial-purpose"><img alt="" src="/images/importing-goods/IP8.jpg">
+						<td><a href="/businesses/importing-goods/import-procedures/importing-of-pets-for-commercial-purpose"><img alt="" src="/images/customs%201.jpeg">
 							</a></td>
 			</tr>
 			<tr>
-				<td><a href="/businesses/importing-goods/import-procedures/importing-of-personal-pets"><img alt="" src="/images/importing-goods/IP9.jpg"></a>
+				<td><a href="/businesses/importing-goods/import-procedures/importing-of-personal-pets"><img alt="" src="/images/customs%201.jpeg"></a>
 		</td>
-				<td><a href="/businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms"><img alt="" src="/images/importing-goods/IP10.jpg"></a>
+				<td><a href="/businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms"><img alt="" src="/images/customs%201.jpeg"></a>
 				</td>
-				<td><a href="/businesses/importing-goods/import-procedures/importing-medical-products-and-therapeutic-products-for-clinical-trials"><img alt="" src="/images/importing-goods/IP11.jpg"></a>
+				<td><a href="/businesses/importing-goods/import-procedures/importing-medical-products-and-therapeutic-products-for-clinical-trials"><img alt="" src="/images/customs%201.jpeg"></a>
 				</td>
-				<td><a href="/businesses/importing-goods/import-procedures/importing-duty-exempted-motor-vehicles-and-gst-exempted-boats"><img alt="" src="/images/importing-goods/IP12.jpg"></a>
+				<td><a href="/businesses/importing-goods/import-procedures/importing-duty-exempted-motor-vehicles-and-gst-exempted-boats"><img alt="" src="/images/customs%201.jpeg"></a>
 				</td>
 				</tr>
 			<tr>
-				<td><a href="/businesses/importing-goods/import-procedures/importing-empty-freight-containers-pallets-and-packing"><img alt="" src="/images/importing-goods/IP13.jpg"></a>
+				<td><a href="/businesses/importing-goods/import-procedures/importing-empty-freight-containers-pallets-and-packing"><img alt="" src="/images/customs%201.jpeg"></a>
 				</td>
-				<td><a href="/businesses/importing-goods/import-procedures/importing-ethyl-alcohol"><img alt="" src="/images/importing-goods/IP14.jpg"></a>
+				<td><a href="/businesses/importing-goods/import-procedures/importing-ethyl-alcohol"><img alt="" src="/images/customs%201.jpeg"></a>
 				</td>
-				<td><a href="/businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling"><img alt="" src="/images/importing-goods/IP15.jpg"></a>
+				<td><a href="/businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling"><img alt="" src="/images/customs%201.jpeg"></a>
 				</td>
-				<td><a href="/businesses/importing-goods/import-procedures/re-importing-shut-out-goods"><img alt="" src="/images/importing-goods/IP16.jpg"></a>
+				<td><a href="/businesses/importing-goods/import-procedures/re-importing-shut-out-goods"><img alt="" src="/images/customs%201.jpeg"></a>
 				</td>
 			</tr>
-			<tr><td><a href="/businesses/importing-goods/import-procedures/re-importing-of-goods-sent-overseas-for-activities"><img alt="" src="/images/importing-goods/IP17.jpg"></a>
+			<tr><td><a href="/businesses/importing-goods/import-procedures/re-importing-of-goods-sent-overseas-for-activities"><img alt="" src="/images/customs%201.jpeg"></a>
 		</td>
-		<td><a href="/businesses/importing-goods/import-procedures/importing-used-household-articles-and-personal-effects"><img alt="" src="/images/importing-goods/IP18.jpg"></a>
+		<td><a href="/businesses/importing-goods/import-procedures/importing-used-household-articles-and-personal-effects"><img alt="" src="/images/customs%201.jpeg"></a>
 		</td>
-		<td><a href="/businesses/importing-goods/import-procedures/authorised-piers-places"><img alt="" src="/images/importing-goods/IP19.jpg"></a>
+		<td><a href="/businesses/importing-goods/import-procedures/authorised-piers-places"><img alt="" src="/images/customs%201.jpeg"></a>
 		</td>
 		</tr></tbody></table></div></header></header>
