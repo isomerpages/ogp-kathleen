@@ -296,8 +296,23 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 	<table class="mobile-block">
 		<thead>
 			<tr>
-| [![](/images/importing-goods/IP1.jpg)](/businesses/importing-goods/import-procedures/hand-carried-temporary-imported-goods)  |  [![](/images/importing-goods/IP2.jpg)](/businesses/importing-goods/import-procedures/types-of-import-permits) | [![](/images/importing-goods/IP3.jpg)](/businesses/importing-goods/import-procedures/permit-validity-and-error-messages) |  [![](/images/importing-goods/IP4.jpg)](/businesses/importing-goods/import-procedures/permit-amendments-and-cancellation)|
-| [![](/images/importing-goods/IP5.jpg)](/businesses/importing-goods/import-procedures/claiming-preferential-tariff-treatment-for-dutiable-imports) | [![](/images/importing-goods/IP6.jpg)](/businesses/importing-goods/import-procedures/importing-trade-samples)  | [![](/images/importing-goods/IP7.jpg)](/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service) | [![](/images/importing-goods/IP8.jpg)](/businesses/importing-goods/import-procedures/importing-of-pets-for-commercial-purpose)|
-| [![](/images/importing-goods/IP9.jpg)](/businesses/importing-goods/import-procedures/importing-of-personal-pets)  | [![](/images/importing-goods/IP10.jpg)](/businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms) | [![](/images/importing-goods/IP11.jpg)](/businesses/importing-goods/import-procedures/importing-medical-products-and-therapeutic-products-for-clinical-trials) | [![](/images/importing-goods/IP12.jpg)](/businesses/importing-goods/import-procedures/importing-duty-exempted-motor-vehicles-and-gst-exempted-boats) |
-| [![](/images/importing-goods/IP13.jpg)](/businesses/importing-goods/import-procedures/importing-empty-freight-containers-pallets-and-packing)|  [![](/images/importing-goods/IP14.jpg)](/businesses/importing-goods/import-procedures/importing-ethyl-alcohol)| [![](/images/importing-goods/IP15.jpg)](/businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling)| [![](/images/importing-goods/IP16.jpg)](/businesses/importing-goods/import-procedures/re-importing-shut-out-goods) |
-| [![](/images/importing-goods/IP17.jpg)](/businesses/importing-goods/import-procedures/re-importing-of-goods-sent-overseas-for-activities) | [![](/images/importing-goods/IP18.jpg)](/businesses/importing-goods/import-procedures/importing-used-household-articles-and-personal-effects) | [![](/images/importing-goods/IP19.jpg)](/businesses/importing-goods/import-procedures/authorised-piers-places)|
+				<th>&nbsp;</th>
+				<th>&nbsp;</th>
+				<th>&nbsp;</th>
+				<th>&nbsp;</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>
+					<a href="/businesses/importing-goods/import-procedures/hand-carried-temporary-imported-goods"><img src="https://d33wubrfki0l68.cloudfront.net/8d5b9f94929d2513936100b97254850f0b1176de/851ec/images/importing-goods/ip1.jpg" alt=""></a>
+				</td>
+				<td><a href="/businesses/importing-goods/import-procedures/types-of-import-permits"><img src="https://d33wubrfki0l68.cloudfront.net/d901b109e901b074f79ee1ab3a5c65837b2b3799/fe1b9/images/importing-goods/ip2.jpg" alt=""></a>
+		</td>
+		<td><a href="/businesses/importing-goods/import-procedures/permit-validity-and-error-messages"><img src="https://d33wubrfki0l68.cloudfront.net/983cf9e48f381e96d94c6524e9105834ff9908d8/dcc78/images/importing-goods/ip3.jpg" alt=""></a></td>
+				<td><a href="/businesses/importing-goods/import-procedures/permit-amendments-and-cancellation"><img src="https://d33wubrfki0l68.cloudfront.net/f9560f3f2d21a0b5b49bb0714e2809f30ffae03b/26a94/images/importing-goods/ip4.jpg" alt=""></a></td>
+			</tr>
+			<tr>
+				<td><a href="/businesses/importing-goods/import-procedures/claiming-preferential-tariff-treatment-for-dutiable-imports"><img src="https://d33wubrfki0l68.cloudfront.net/de42e58d42fd47f147f9f3a4165229f99e7d6fc9/32292/images/importing-goods/ip5.jpg" alt=""></a></td>
+				<td><a href="/businesses/importing-goods/import-procedures/importing-trade-samples"><img src="https://d33wubrfki0l68.cloudfront.net/fb32e5a363e32c3370910def52225befd6ef0f6e/b7e62/images/importing-goods/ip6.jpg" alt=""></a></td>
+				<td><a href="/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service"><img src="https://d33wubrfki0l68.cloudfront.net/14720d2d29536ac27d3be30792f76985f75310f4/135f7/images/importing-goods/ip7.jpg" alt=""></a></td>
