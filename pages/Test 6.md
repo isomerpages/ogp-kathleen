@@ -180,9 +180,12 @@ For minor offences under the Customs Act and the RIEA, Singapore Customs may off
 
 
 
-## Penalties Upon Conviction for Key Offences
+<hr>
+	<h2>Penalties Upon Conviction for Key Offences
+	</h2>
 
-<table>
+<div class="horizontal-scroll">
+	<table>
   <thead>
     <tr>
       <th>Offence</th>
@@ -234,14 +237,16 @@ For minor offences under the Customs Act and the RIEA, Singapore Customs may off
 				<br><br>A fine not exceeding S$200,000 or 4 times the value of the goods, whichever is greater, or imprisonment not exceeding 3 years, or both.</td>
     </tr> 
 		        <tr>
-      <td><b>Unauthorised tampering/opening/breaking/altering or removing of customs lock, seal or other safeguards placed on containerised dutiable goods.</b>
+      <td>
+					<b>Unauthorised tampering/opening/breaking/altering or removing of customs lock, seal or other safeguards placed on containerised dutiable goods.</b>
 							<br><br>(Regulation 16(4) of the Customs (Container) Regulations)</td>
       <td>A fine not exceeding S$5,000.</td>
     </tr> 
 		  </tbody>
 </table>
+</div>
 
-<p>Read more about the prescribed offences and penalties under the [Customs Act and the RIEA](https://www.customs.gov.sg/businesses/acts-and-subsidiary-legislation/overview).</p>
+<p>Read more about the prescribed offences and penalties under the <a href="https://www.customs.gov.sg/businesses/acts-and-subsidiary-legislation/overview">Customs Act and the RIEA</a>.</p>
 			
 			
 <br>
