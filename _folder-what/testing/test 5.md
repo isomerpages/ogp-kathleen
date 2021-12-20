@@ -179,7 +179,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 
 
 
-<hr>
+<header>
 	<h2>Penalties Upon Conviction for Key Offences
 	</h2>
 
