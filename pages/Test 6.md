@@ -285,8 +285,8 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 	
 	
 <header>
-	<h2>For more information on:</h>
-
+	<h2>For more information on:
+	</h2>
 {:.mobile-block}
 |  |  |  |  |
 |--|--|--|--|
