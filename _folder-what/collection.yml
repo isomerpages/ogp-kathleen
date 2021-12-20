@@ -4,6 +4,7 @@ collections:
     order:
       - A very very very long title/Example Title 1.md
       - A very very very long title/.keep
+      - testing/test 5.md
       - testing/Example Title 4.md
       - testing/.keep
       - testing/Test Page.md
