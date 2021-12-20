@@ -244,9 +244,11 @@ For minor offences under the Customs Act and the RIEA, Singapore Customs may off
 Read more about the prescribed offences and penalties under the [Customs Act and the RIEA](https://www.customs.gov.sg/businesses/acts-and-subsidiary-legislation/overview).
 			
 			
-	
+<br>
+	</br>
     
-## Best Practices
+<header>
+	<h2>Best Practices</h2>
 
 You are accountable as an importer or declaring agent for the import of goods. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements.
 
@@ -282,7 +284,8 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 	</ul>
 	
 	
-## For more information on:
+<header>
+	<h2>For more information on:</h>
 
 {:.mobile-block}
 |  |  |  |  |
