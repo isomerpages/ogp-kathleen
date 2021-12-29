@@ -54,3 +54,4 @@ staging: https://ogp-kathleen-staging.netlify.app
 prod: https://ogp-kathleen-prod.netlify.app
 shareicon: /images/Essential.png
 is_government: true
+vica: true
