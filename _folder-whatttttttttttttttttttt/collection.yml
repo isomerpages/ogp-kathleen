@@ -2,4 +2,5 @@ collections:
   folder-whatttttttttttttttttttt:
     output: true
     order:
+      - Test 5.md
       - A very very very long nameeeee/.keep
