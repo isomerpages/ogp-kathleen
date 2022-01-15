@@ -18,7 +18,7 @@ sections:
           description: Check Your Eligibility Here
           url: https://www.redcross.sg/give-blood/can-i-donate-blood.html
         - title: Where to donate?
-          description: ""
+          description: Find Your Nearest Location
           url: https://www.redcross.sg/give-blood/where-to-donate-today.html
       title: Donate Now
       subtitle: 60 minutes of your time can save 3 lives
@@ -32,6 +32,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
-
-
