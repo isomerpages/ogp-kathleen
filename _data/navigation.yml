@@ -1,18 +1,5 @@
 logo: /images/SRCBDRPLogo150323.jpeg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Faq
-    url: /faq/
-  - title: Submenu
-    url: /testingpage1
-    sublinks:
-      - title: Google
-        url: https://www.google.com
-      - title: Submenu 2
-        url: /testingpage2
-  - title: Login
-    url: https://google.com
   - title: About
     collection: about
   - title: Media Room
@@ -23,3 +10,7 @@ links:
     collection: about
   - title: Folder Whatttttttttttttttttttt
     collection: folder-whatttttttttttttttttttt
+  - title: Faq
+    url: /faq/
+  - title: Login
+    url: https://google.com
