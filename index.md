@@ -5,7 +5,7 @@ description: test1
 image: /images/MOHShareicon.png
 permalink: /
 notification: There will be a system downtime on 31 Dec 2021, 0000hrs to
-  0500hrs. (This is a test website meant for demo purposes)
+  0500hrs. (This is a test Isomer website meant for demo purposes)
 sections:
   - hero:
       background: /images/Diabetic-Health-Insurance.jpeg
