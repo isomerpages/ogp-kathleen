@@ -5,21 +5,20 @@ date: 2022-01-20
 layout: post
 description: ""
 ---
-1. This National Library Board (NLB) privacy statement applies whenever you have any interactions or transactions with us in relation to our functions or services.   
-```
+1\. This National Library Board (NLB) privacy statement applies whenever you have any interactions or transactions with us in relation to our functions or services.   
+
 **Cookies** 
-```
 
-2. For our digital services: 
+2\. For our digital services: 
 
-	a. We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our digital services. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred digital services. While this cookie can tell us when you enter our digital services and which pages you visit, it cannot read data off your hard disk.  
+a. We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our digital services. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred digital services. While this cookie can tell us when you enter our digital services and which pages you visit, it cannot read data off your hard disk.  
 
-	b. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. However, this may prevent you from taking full advantage of the digital services. 
+b. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. However, this may prevent you from taking full advantage of the digital services. 
  
 
  **Use of Data**
 
-3. If you provide us with personal data:
+3\. If you provide us with personal data:
 
 a. We may use the data (such as to process, store and retain it) so as to improve the performance of our functions and to serve you in the most efficient and effective way. This includes providing updates and recommendations on NLB content and services or personalising services for you.   
 
@@ -31,15 +30,15 @@ d. For your convenience, we may also display to you data that you had previously
 
 **Protection of Data**
 
-4. To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.  
+4\. To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.  
 
 **Links**
 
-5. Our digital services may contain links to non-Government entity digital services whose data protection and privacy practices may differ from ours.  We are not responsible for the content, data protection and privacy practices of these other digital services and we encourage you to consult the privacy notices of these other digital services.  
+5\. Our digital services may contain links to non-Government entity digital services whose data protection and privacy practices may differ from ours.  We are not responsible for the content, data protection and privacy practices of these other digital services and we encourage you to consult the privacy notices of these other digital services.  
 
 **Contact Information**
 
-6. Please contact  qsm@nlb.gov.sg if you:
+6\. Please contact  qsm@nlb.gov.sg if you:
 
 a. have any enquiries or feedback on our data protection, policies and procedures; or
 
@@ -48,8 +47,8 @@ b. need more information on or access to data, which you have provided directly 
 
 **Definitions**
 
-7. “Government Agency” refers to an Organ of State, Ministry, Department or Statutory Board.
+7\. “Government Agency” refers to an Organ of State, Ministry, Department or Statutory Board.
 
-8. ”Non-Government entity” refers to a person or entity other than a Government Agency.
+8\. ”Non-Government entity” refers to a person or entity other than a Government Agency.
 
-9. “Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012.
+9\. “Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012.
