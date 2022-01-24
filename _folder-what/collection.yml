@@ -5,10 +5,10 @@ collections:
       - A really very very long title/.keep
       - A really very very long title/Example Title 1.md
       - A really very very long title/Random Video.md
-      - testing/test 5.md
-      - testing/Example Title 4.md
-      - testing/.keep
-      - testing/Example Page.md
-      - testing/Example Title 2.md
+      - Test Folder/test 5.md
+      - Test Folder/Example Title 4.md
+      - Test Folder/.keep
+      - Test Folder/Example Page.md
+      - Test Folder/Example Title 2.md
       - privacy.md
       - terms-of-use.md
