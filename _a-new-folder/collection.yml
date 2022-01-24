@@ -1,0 +1,4 @@
+collections:
+  a-new-folder:
+    output: true
+    order: []
