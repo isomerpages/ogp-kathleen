@@ -2,9 +2,9 @@ collections:
   folder-what:
     output: true
     order:
-      - A very very very long title/.keep
-      - A very very very long title/Example Title 1.md
-      - A very very very long title/Random Video.md
+      - A really very very long title/.keep
+      - A really very very long title/Example Title 1.md
+      - A really very very long title/Random Video.md
       - testing/test 5.md
       - testing/Example Title 4.md
       - testing/.keep
