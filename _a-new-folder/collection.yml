@@ -2,4 +2,5 @@ collections:
   a-new-folder:
     output: true
     order:
+      - Example Title 4.md
       - Example Title 2.md
