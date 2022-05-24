@@ -14,3 +14,6 @@ permalink: /folder-what/testing/permalink
 | Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
 | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 </div>
+
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_eoglto4ou3h4ocarcgt48420qc%40group.calendar.google.com&ctz=Asia%2FSingapore" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
