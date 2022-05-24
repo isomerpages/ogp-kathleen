@@ -18,4 +18,4 @@ permalink: /folder-what/testing/permalink
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_eoglto4ou3h4ocarcgt48420qc%40group.calendar.google.com&ctz=Asia%2FSingapore" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2F100064588638223%2Fposts%2Fpfbid02Bs1dUC6DgpCUakNrS4z3jcokPfbofEudGSkTs6GGUZBT64mXWbYmeyAHXooG6Gvl%2F%3Fd%3Dn&width=500&show_text=true&height=202&appId" width="100%" height="202" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fspcasingapore%2Fposts%2F10159324200898155&show_text=true&width=500" width="100%" height="787" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
