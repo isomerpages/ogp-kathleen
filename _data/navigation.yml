@@ -1,17 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/SRCBDRPLogo150323.jpeg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Faq
-    url: /faq/
   - title: About
     collection: about
   - title: Media Room
     resource_room: true
+  - title: Folder What
+    collection: folder-what
+  - title: Menu Title
+    collection: a-new-folder
+  - title: Folder Whatttttttttttttttttttt
+    collection: folder-whatttttttttttttttttttt
+  - title: Faq
+    url: /faq/
+  - title: Login
+    url: https://google.com

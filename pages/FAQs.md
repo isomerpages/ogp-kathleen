@@ -1,4 +1,5 @@
 ---
-title: Faq
+title: FAQs
 permalink: /faq
 ---
+

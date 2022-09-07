@@ -1,32 +1,33 @@
 ---
 layout: homepage
 title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+description: test1
+image: /images/MOHShareicon.png
 permalink: /
-notification: There will be a system downtime on 31 Dec 2021, 0000hrs to 0500hrs.
+notification: There will be a system downtime on 31 Dec 2021, 0000hrs to
+  0500hrs. (This is a test Isomer website meant for demo purposes)
 sections:
   - hero:
-      title: Boardgames!
-      subtitle: A website for starting your boardgaming journey
-      background: /images/Jahromi-Pandemictheboardgame.jpeg
-      button: Contact Us
-      url: /contact-us/
+      background: /images/Diabetic-Health-Insurance.jpeg
+      button: Book Appointment via singapass
+      url: https://donateblood.hsa.gov.sg/
       key_highlights:
-        - title: Board Game Arena
-          description: Explore the latest games now!
-          url: https://en.boardgamearena.com/
-        - title: Tabletopia
-          description: New Games Released
-          url: https://tabletopia.com/
-        - title: Board Game Reviews
-          description: Find the latest board games
-          url: https://boardgamegeek.com/
+        - title: give blood
+          description: Why Should I Donate?
+          url: https://www.redcross.sg/give-blood/why-should-i-donate-blood.html
+        - title: Can I Donate?
+          description: Check Your Eligibility Here
+          url: https://www.redcross.sg/give-blood/can-i-donate-blood.html
+        - title: Where to donate?
+          description: Find Your Nearest Location
+          url: https://www.redcross.sg/give-blood/where-to-donate-today.html
+      title: Donate Now
+      subtitle: 60 minutes of your time can save 3 lives
   - infobar:
-      title: Want to know more about board games?
-      description: Find out about the latest updates here
+      title: Ready to Donate?
+      description: Here's what to expect
       button: Find out more
-      url: /faq/
+      url: https://www.redcross.sg/give-blood/i-m-ready-to-donate.html
   - resources:
       title: Media
       subtitle: Learn more

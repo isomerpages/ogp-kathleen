@@ -2,7 +2,5 @@ collections:
   about:
     output: true
     order:
-      - intro/.keep
-      - intro/about-me.md
-      - intro/fun-facts.md
+      - calendar-of-events.md
       - my-hobbies.md
