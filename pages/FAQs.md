@@ -1,5 +1,5 @@
 ---
 title: FAQs
-permalink: /faq
+permalink: /faq/
 ---
-
+Adding for site launch
