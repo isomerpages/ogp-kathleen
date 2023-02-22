@@ -15,7 +15,6 @@ description: ""
   padding: 2px 16px;
 }
 </style>
-</head>
 <body>
 
 <h2>Card</h2>
