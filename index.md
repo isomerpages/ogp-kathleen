@@ -28,10 +28,6 @@ sections:
       description: Here's what to expect
       button: Find out more
       url: https://www.redcross.sg/give-blood/i-m-ready-to-donate.html
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
   - infobar:
       description: '<iframe
         src="https://calendar.google.com/calendar/embed?src=c_eoglto4ou3h4ocarcgt48420qc%40group.calendar.google.com&ctz=Asia%2FSingapore"
