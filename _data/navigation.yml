@@ -21,3 +21,5 @@ links:
     sublinks:
       - title: Submenu Title
         url: google.com
+  - title: Menu Title
+    collection: folder-what
