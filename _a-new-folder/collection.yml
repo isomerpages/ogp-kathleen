@@ -2,6 +2,7 @@ collections:
   a-new-folder:
     output: true
     order:
+      - calendar-of-events.md
       - Example Title 1.md
       - Example Title 4.md
       - Example Title 2.md

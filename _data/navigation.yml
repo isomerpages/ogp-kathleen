@@ -14,3 +14,12 @@ links:
     url: /faq/
   - title: Login
     url: https://google.com
+  - title: test test
+    collection: about
+  - title: Menu Title
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: google.com
+  - title: Menu Title
+    collection: folder-what
