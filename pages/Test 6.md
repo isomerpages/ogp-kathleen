@@ -305,15 +305,15 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 		<tbody>
 			<tr>
 				<td>
-					<a href="/businesses/importing-goods/import-procedures/hand-carried-temporary-imported-goods"><img src="https://d33wubrfki0l68.cloudfront.net/8d5b9f94929d2513936100b97254850f0b1176de/851ec/images/importing-goods/ip1.jpg" alt=""></a>
+					<a href="/businesses/importing-goods/import-procedures/hand-carried-temporary-imported-goods"><img src="/images/importing-goods/ip1.jpg" alt=""></a>
 				</td>
-				<td><a href="/businesses/importing-goods/import-procedures/types-of-import-permits"><img src="https://d33wubrfki0l68.cloudfront.net/d901b109e901b074f79ee1ab3a5c65837b2b3799/fe1b9/images/importing-goods/ip2.jpg" alt=""></a>
+				<td><a href="/businesses/importing-goods/import-procedures/types-of-import-permits"><img src="/images/importing-goods/ip2.jpg" alt=""></a>
 		</td>
-		<td><a href="/businesses/importing-goods/import-procedures/permit-validity-and-error-messages"><img src="https://d33wubrfki0l68.cloudfront.net/983cf9e48f381e96d94c6524e9105834ff9908d8/dcc78/images/importing-goods/ip3.jpg" alt=""></a></td>
-				<td><a href="/businesses/importing-goods/import-procedures/permit-amendments-and-cancellation"><img src="https://d33wubrfki0l68.cloudfront.net/f9560f3f2d21a0b5b49bb0714e2809f30ffae03b/26a94/images/importing-goods/ip4.jpg" alt=""></a></td>
+		<td><a href="/businesses/importing-goods/import-procedures/permit-validity-and-error-messages"><img src="/images/importing-goods/ip3.jpg" alt=""></a></td>
+				<td><a href="/businesses/importing-goods/import-procedures/permit-amendments-and-cancellation"><img src="/images/importing-goods/ip4.jpg" alt=""></a></td>
 			</tr>
 			<tr>
-				<td><a href="/businesses/importing-goods/import-procedures/claiming-preferential-tariff-treatment-for-dutiable-imports"><img src="https://d33wubrfki0l68.cloudfront.net/de42e58d42fd47f147f9f3a4165229f99e7d6fc9/32292/images/importing-goods/ip5.jpg" alt=""></a></td>
-				<td><a href="/businesses/importing-goods/import-procedures/importing-trade-samples"><img src="https://d33wubrfki0l68.cloudfront.net/fb32e5a363e32c3370910def52225befd6ef0f6e/b7e62/images/importing-goods/ip6.jpg" alt=""></a></td>
-				<td><a href="/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service"><img src="https://d33wubrfki0l68.cloudfront.net/14720d2d29536ac27d3be30792f76985f75310f4/135f7/images/importing-goods/ip7.jpg" alt=""></a></td>
+				<td><a href="/businesses/importing-goods/import-procedures/claiming-preferential-tariff-treatment-for-dutiable-imports"><img src="/images/importing-goods/ip5.jpg" alt=""></a></td>
+				<td><a href="/businesses/importing-goods/import-procedures/importing-trade-samples"><img src="/images/importing-goods/ip6.jpg" alt=""></a></td>
+				<td><a href="/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service"><img src="/images/importing-goods/ip7.jpg" alt=""></a></td>
 				<td><a href="/businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms"><img src="/images/customs%201.jpeg" alt=""></a></td>
